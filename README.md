@@ -1,4 +1,4 @@
-# acroformer
+# Acroformer
 
 Turn flat (non-fillable) PDF forms into fillable **AcroForms** — automatically.
 
