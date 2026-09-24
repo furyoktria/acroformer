@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""acroformer — turn flat (non-fillable) PDF forms into fillable AcroForms.
+"""acroformer: turn flat (non-fillable) PDF forms into fillable AcroForms.
 
 Detects drawn form geometry (character boxes, checkboxes, dotted leaders,
 write-on lines, empty table cells) and overlays real AcroForm widgets on the

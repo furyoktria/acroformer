@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *_acroform.pdf
 .DS_Store
+*.egg-info/
+build/
+dist/

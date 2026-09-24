@@ -1,0 +1,242 @@
+[
+  {
+    "name": "p01_nama_lengkap",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      191.2,
+      138.6,
+      553.5,
+      149.4
+    ]
+  },
+  {
+    "name": "p01_tempat_tanggal_lahir_dd",
+    "page": 1,
+    "type": "text",
+    "maxlen": 2,
+    "rect": [
+      250.0,
+      164.4,
+      276.7,
+      175.6
+    ]
+  },
+  {
+    "name": "p01_tempat_tanggal_lahir_mm",
+    "page": 1,
+    "type": "text",
+    "maxlen": 2,
+    "rect": [
+      290.0,
+      164.4,
+      316.7,
+      175.6
+    ]
+  },
+  {
+    "name": "p01_tempat_tanggal_lahir_yyyy",
+    "page": 1,
+    "type": "text",
+    "maxlen": 4,
+    "rect": [
+      330.0,
+      164.4,
+      382.7,
+      175.6
+    ]
+  },
+  {
+    "name": "p01_nomor_ponsel",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      190.0,
+      191.5,
+      372.0,
+      202.5
+    ]
+  },
+  {
+    "name": "p01_kode_pos",
+    "page": 1,
+    "type": "text",
+    "maxlen": 5,
+    "rect": [
+      190.0,
+      216.4,
+      255.7,
+      227.6
+    ]
+  },
+  {
+    "name": "p01_pekerjaan",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      135.4,
+      242.9,
+      303.2,
+      254.5
+    ]
+  },
+  {
+    "name": "p01_alamat",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      111.8,
+      266.9,
+      338.7,
+      278.5
+    ]
+  },
+  {
+    "name": "p01_alamat_2",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      40.0,
+      284.9,
+      342.5,
+      296.5
+    ]
+  },
+  {
+    "name": "p01_reguler",
+    "page": 1,
+    "type": "checkbox",
+    "maxlen": null,
+    "rect": [
+      40.0,
+      343.0,
+      49.0,
+      352.0
+    ]
+  },
+  {
+    "name": "p01_keluarga",
+    "page": 1,
+    "type": "checkbox",
+    "maxlen": null,
+    "rect": [
+      190.0,
+      343.0,
+      199.0,
+      352.0
+    ]
+  },
+  {
+    "name": "p01_korporasi",
+    "page": 1,
+    "type": "checkbox",
+    "maxlen": null,
+    "rect": [
+      340.0,
+      343.0,
+      349.0,
+      352.0
+    ]
+  },
+  {
+    "name": "p01_lainnya",
+    "page": 1,
+    "type": "checkbox",
+    "maxlen": null,
+    "rect": [
+      40.0,
+      363.5,
+      49.0,
+      372.5
+    ]
+  },
+  {
+    "name": "p01_lainnya_2",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      128.0,
+      363.5,
+      300.0,
+      374.5
+    ]
+  },
+  {
+    "name": "p01_nama",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      99.5,
+      428.9,
+      312.2,
+      440.5
+    ]
+  },
+  {
+    "name": "p01_hubungan",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      140.2,
+      454.9,
+      310.3,
+      466.5
+    ]
+  },
+  {
+    "name": "p01_telepon",
+    "page": 1,
+    "type": "text",
+    "maxlen": null,
+    "rect": [
+      191.2,
+      480.6,
+      371.5,
+      491.4
+    ]
+  },
+  {
+    "name": "p01_tanggal_dd",
+    "page": 1,
+    "type": "text",
+    "maxlen": 2,
+    "rect": [
+      120.0,
+      526.4,
+      146.7,
+      537.6
+    ]
+  },
+  {
+    "name": "p01_tanggal_mm",
+    "page": 1,
+    "type": "text",
+    "maxlen": 2,
+    "rect": [
+      160.0,
+      526.4,
+      186.7,
+      537.6
+    ]
+  },
+  {
+    "name": "p01_tanggal_yyyy",
+    "page": 1,
+    "type": "text",
+    "maxlen": 4,
+    "rect": [
+      200.0,
+      526.4,
+      252.7,
+      537.6
+    ]
+  }
+]

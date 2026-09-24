@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "acroformer"
+version = "1.0.0"
+description = "Turn flat PDF forms into fillable AcroForms, with every field named after its printed label."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+dependencies = ["pymupdf>=1.24"]
+authors = [{ name = "Fury Oktria Putra" }]
+keywords = ["pdf", "acroform", "pdf-forms", "fillable-pdf", "pymupdf", "form-automation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Office/Business",
+    "Topic :: Text Processing",
+]
+
+[project.urls]
+Homepage = "https://github.com/furyoktria/acroformer"
+
+[project.scripts]
+acroformer = "acroformer:main"
+
+[tool.setuptools]
+py-modules = ["acroformer"]
