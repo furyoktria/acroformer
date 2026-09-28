@@ -4,7 +4,9 @@ Turn flat PDF forms into fillable **AcroForms**. acroformer finds the printed
 boxes, date cells, checkboxes and dotted lines, puts real form fields on top of
 the untouched pages, and names every field after its printed label.
 
-![Before and after: a flat PDF form, and the same form with 20 named, fillable fields](docs/before-after.png)
+<a href="https://furyoktria.github.io/explainers/acroformer/"><img src="docs/explainer-poster.jpg" width="100%" alt="Watch acroformer in three minutes: what it does, a map of the code, the life of a page, the core ideas and a real run"></a>
+
+**[Watch the three-minute tour](https://furyoktria.github.io/explainers/acroformer/)**: what it does, a map of the code, the life of a page, the core ideas and a real run on the sample form.
 
 Many institutional forms (bank account openings, KYC packets, government
 forms) are shipped as flat PDFs: the boxes are printed, but nothing can be
